@@ -10,3 +10,5 @@ function consoleToJSON(){
 }
 
 console.log(consoleToJSON())
+
+// Запустить node console message=hello spec
